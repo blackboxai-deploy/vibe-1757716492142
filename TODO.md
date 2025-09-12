@@ -1,0 +1,4 @@
+- [ ] Create `src/app/layout.tsx`
+- [ ] Create `src/app/page.tsx`
+- [ ] Create `tailwind.config.ts`
+- [ ] Run the dev server and preview the page
